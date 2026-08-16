@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gayang-karaoke-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://gayang-karaoke-note.go-hapjeong-club.xyz/sitemap-pages.xml

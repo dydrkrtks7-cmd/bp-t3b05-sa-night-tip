@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>가양 노래방 추천 가이드</title>
+  <rect width="64" height="64" rx="16" fill="hsl(51 55% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(203 68% 69%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(51 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(203 68% 69%)"/></g>
+</svg>
